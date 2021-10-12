@@ -1,0 +1,35 @@
+body {}
+
+h1 {
+    color: rgb(68, 103, 255);
+}
+
+h1,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper1 {
+    width: 65%;
+    margin: 0 auto;
+}
+
+
+.featured {
+    float: left;
+    margin-right: 1em;
+}
+
+.wrapper2 {
+    width: 65%;
+    margin: 0 auto;
+    clear: both;
+}
+
+.wrapper2>div {
+    float: left;
+}
+
+.titel2 {
+    padding-top: 1em;
+}
